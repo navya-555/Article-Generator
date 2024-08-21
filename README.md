@@ -23,6 +23,3 @@ Run the application, enter the topic, select word count, choose the publication 
 
 ## License
 This project is licensed under the MIT License.
-
-## Contact
-For inquiries, please contact [your-email@example.com].
